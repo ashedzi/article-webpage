@@ -71,7 +71,6 @@ header {
     }
 }
 
-
 nav {
     width: 100%;
     height: 56px;
@@ -81,7 +80,6 @@ nav {
 nav ul {
     list-style: none;
 }
-
 
 nav ul li {
     display: inline;
@@ -230,21 +228,3 @@ main {
 .english-words li {
     margin-left: 25px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*-------------------column---------------------*/
-
-
-
-
